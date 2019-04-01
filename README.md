@@ -1,3 +1,7 @@
+
+#  遗迹展示， 此项目缺少 console的支持，只能作为service 案例和架构参考。
+
+
 ## 1.TrafficShark功能介绍
 
 ---
